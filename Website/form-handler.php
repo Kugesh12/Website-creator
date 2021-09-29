@@ -5,7 +5,7 @@
     $message = $_POST['message'];
 
 
-    $email_from = 'mywebsite.com';
+    $email_from = 'https://6151a8445be2750b3064a101--pensive-bose-3b5f70.netlify.app';
 
 
     $email_subject = 'New Form Submission';
